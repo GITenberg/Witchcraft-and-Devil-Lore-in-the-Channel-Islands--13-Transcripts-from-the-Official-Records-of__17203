@@ -1,0 +1,31 @@
+_repo: Witchcraft-and-Devil-Lore-in-the-Channel-Islands--13-Transcripts-from-the-Official-Records-of__17203
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pitts, John Linwood
+    birthdate: 1836
+    deathdate: 1917
+    gutenberg_agent_id: '7218'
+    url: http://www.gutenberg.org/2009/agents/7218
+description: ''
+gutenberg_bookshelf: Witchcraft
+gutenberg_issued: '2005-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17203'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trials (Witchcraft) -- Channel Islands'
+- !lcc 'BF'
+- !lcsh 'Channel Islands -- History'
+- !lcsh 'Witchcraft -- Channel Islands'
+title: "Witchcraft and Devil Lore in the Channel Islands\r\nTranscripts from the Official\
+  \ Records of the Guernsey Royal Court, with an English Translation and Historical\
+  \ Introduction"
+url: http://www.gutenberg.org/ebooks/17203
